@@ -110,6 +110,251 @@
       "api": "http://api.yumizy.com/api.php/provide/vod",
       "name": "玉米资源",
       "detail": "http://yumizy.com"
+    },
+     "123ku": {
+      "api": "http://123ku.com/api.php/provide/vod",
+      "name": "123资源库",
+      "detail": "http://123ku.com"
+    },
+    "158zy": {
+      "api": "http://158.247.233.243/api.php/provide/vod",
+      "name": "158资源",
+      "detail": "http://158.247.233.243"
+    },
+    "360zy": {
+      "api": "http://360zy.com/api.php/provide/vod",
+      "name": "360资源网",
+      "detail": "http://360zy.com"
+    },
+    "520zy": {
+      "api": "http://520zy.com/api.php/provide/vod",
+      "name": "520资源",
+      "detail": "http://520zy.com"
+    },
+    "56dy": {
+      "api": "http://56dy.com/api.php/provide/vod",
+      "name": "56电影",
+      "detail": "http://56dy.com"
+    },
+    "60zy": {
+      "api": "http://60.204.169.103/api.php/provide/vod",
+      "name": "60资源",
+      "detail": "http://60.204.169.103"
+    },
+    "7nzy": {
+      "api": "http://7n.pto.run/api.php/provide/vod",
+      "name": "7N资源",
+      "detail": "http://7n.pto.run"
+    },
+    "8kzy": {
+      "api": "http://8kzy.com/api.php/provide/vod",
+      "name": "8K资源",
+      "detail": "http://8kzy.com"
+    },
+    "99zy": {
+      "api": "http://99zywc.com/api.php/provide/vod",
+      "name": "99资源网",
+      "detail": "http://99zywc.com"
+    },
+    "123dyw": {
+      "api": "http://api.123dyw.net/api.php/provide/vod",
+      "name": "123电影网",
+      "detail": "http://123dyw.net"
+    },
+    "52zy": {
+      "api": "http://api.52zy.com/api.php/provide/vod",
+      "name": "52资源",
+      "detail": "http://52zy.com"
+    },
+    "888zy": {
+      "api": "http://api.888zy.cn/api.php/provide/vod",
+      "name": "888资源",
+      "detail": "http://888zy.cn"
+    },
+    "aa123456": {
+      "api": "http://api.aa123456.com/api.php/provide/vod",
+      "name": "AA资源",
+      "detail": "http://aa123456.com"
+    },
+    "apilyzy": {
+      "api": "http://api.apilyzy.com/api.php/provide/vod",
+      "name": "API乐园资源",
+      "detail": "http://apilyzy.com"
+    },
+    "bajiezyw": {
+      "api": "http://api.bajiezyw.com/api.php/provide/vod",
+      "name": "八戒资源网",
+      "detail": "http://bajiezyw.com"
+    },
+    "bbkdj": {
+      "api": "http://api.bbkdj.com/api.php/provide/vod",
+      "name": "BBKDJ资源",
+      "detail": "http://bbkdj.com"
+    },
+    "biaoqingbao": {
+      "api": "http://api.biaoqingbao.com/api.php/provide/vod",
+      "name": "表情包资源",
+      "detail": "http://biaoqingbao.com"
+    },
+    "btstu": {
+      "api": "http://api.btstu.cn/api.php/provide/vod",
+      "name": "BT速图",
+      "detail": "http://btstu.cn"
+    },
+    "caiji10mu": {
+      "api": "http://api.caiji.10mu.net/api.php/provide/vod",
+      "name": "10MU采集",
+      "detail": "http://10mu.net"
+    },
+    "doupianist": {
+      "api": "http://api.caiji.doupianist.com/api.php/provide/vod",
+      "name": "豆片采集",
+      "detail": "http://doupianist.com"
+    },
+    "chaojizy": {
+      "api": "http://api.chaojizy.com/api.php/provide/vod",
+      "name": "超级资源",
+      "detail": "http://chaojizy.com"
+    },
+    "chuanqingzy": {
+      "api": "http://api.chuanqingzy.com/api.php/provide/vod",
+      "name": "串清资源",
+      "detail": "http://chuanqingzy.com"
+    },
+    "cjjzy": {
+      "api": "http://api.cjjzy.com/api.php/provide/vod",
+      "name": "CJJ资源",
+      "detail": "http://cjjzy.com"
+    },
+    "caijizy": {
+      "api": "http://api.cjz1.com/api.php/provide/vod",
+      "name": "采集资源",
+      "detail": "http://cjz1.com"
+    },
+    "dadiaoke": {
+      "api": "http://api.dadiaoke.com/api.php/provide/vod",
+      "name": "大咖资源",
+      "detail": "http://dadiaoke.com"
+    },
+    "dianyinggu": {
+      "api": "http://api.dianyinggu.com/api.php/provide/vod",
+      "name": "电影谷",
+      "detail": "http://dianyinggu.com"
+    },
+    "doubeiyy": {
+      "api": "http://api.doubeiyy.com/api.php/provide/vod",
+      "name": "逗贝影院",
+      "detail": "http://doubeiyy.com"
+    },
+    "doupo": {
+      "api": "http://api.doupo.cc/api.php/provide/vod",
+      "name": "斗破资源",
+      "detail": "http://doupo.cc"
+    },
+    "douxun": {
+      "api": "http://api.douxun.com/api.php/provide/vod",
+      "name": "豆寻资源",
+      "detail": "http://douxun.com"
+    },
+    "feisu": {
+      "api": "http://api.feisuzyapi.com/api.php/provide/vod",
+      "name": "飞速资源",
+      "detail": "http://feisuzyapi.com"
+    },
+    "fengche": {
+      "api": "http://api.fengchezy.com/api.php/provide/vod",
+      "name": "风车资源",
+      "detail": "http://fengchezy.com"
+    },
+    "gitcafe": {
+      "api": "http://api.gitcafe.net/api.php/provide/vod",
+      "name": "Gitcafe",
+      "detail": "http://gitcafe.net"
+    },
+    "guangsu": {
+      "api": "http://api.guangsuzy.com/api.php/provide/vod",
+      "name": "光速资源",
+      "detail": "http://guangsuzy.com"
+    },
+    "hanju": {
+      "api": "http://api.hanju.tv/api.php/provide/vod",
+      "name": "韩剧TV",
+      "detail": "http://hanju.tv"
+    },
+    "haozy": {
+      "api": "http://api.haozy.com/api.php/provide/vod",
+      "name": "好资源",
+      "detail": "http://haozy.com"
+    },
+    "hongkongzy": {
+      "api": "http://api.hongkongzy.com/api.php/provide/vod",
+      "name": "香港资源",
+      "detail": "http://hongkongzy.com"
+    },
+    "huangguan": {
+      "api": "http://api.huangguan.org/api.php/provide/vod",
+      "name": "皇冠资源",
+      "detail": "http://huangguan.org"
+    },
+    "ikan": {
+      "api": "http://api.ikanfan.com/api.php/provide/vod",
+      "name": "爱看资源",
+      "detail": "http://ikanfan.com"
+    },
+    "ikanfan": {
+      "api": "http://api.ikanfan.net/api.php/provide/vod",
+      "name": "爱看影视",
+      "detail": "http://ikanfan.net"
+    },
+    "imomoe": {
+      "api": "http://api.imomoe.ai/api.php/provide/vod",
+      "name": "樱花动漫",
+      "detail": "http://imomoe.ai"
+    },
+    "iqiyi": {
+      "api": "http://api.iqiyiapi.com/api.php/provide/vod",
+      "name": "爱奇艺API",
+      "detail": "http://iqiyiapi.com"
+    },
+    "itvbox": {
+      "api": "http://api.itvbox.cc/api.php/provide/vod",
+      "name": "ITVBox",
+      "detail": "http://itvbox.cc"
+    },
+    "jike": {
+      "api": "http://api.jikezy.com/api.php/provide/vod",
+      "name": "极速资源",
+      "detail": "http://jikezy.com"
+    },
+    "jxzy": {
+      "api": "http://api.jxzyapi.com/api.php/provide/vod",
+      "name": "金象资源",
+      "detail": "http://jxzyapi.com"
+    },
+    "kankan": {
+      "api": "http://api.kankanzy.com/api.php/provide/vod",
+      "name": "看看资源",
+      "detail": "http://kankanzy.com"
+    },
+    "kkzy": {
+      "api": "http://api.kkzy.net/api.php/provide/vod",
+      "name": "快快资源",
+      "detail": "http://kkzy.net"
+    },
+    "kuyun": {
+      "api": "http://api.kuyun.tv/api.php/provide/vod",
+      "name": "酷云资源",
+      "detail": "http://kuyun.tv"
+    },
+    "laodi": {
+      "api": "http://api.laodi365.com/api.php/provide/vod",
+      "name": "老弟资源",
+      "detail": "http://laodi365.com"
+    },
+    "lianyu": {
+      "api": "http://api.lianyuzy.com/api.php/provide/vod",
+      "name": "鲢鱼资源",
+      "detail": "http://lianyuzy.com"
     }
   }
 }
